@@ -36,7 +36,11 @@
     "versionFirst": "4.8.8",
     "siteFonts": [],
     "uniqCompNum": 18,
-    "versionPublish": "4.8.8"
+    "versionPublish": "4.8.8",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/oliver-celulares-1-11-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
