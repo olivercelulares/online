@@ -1782,8 +1782,9 @@ body {
   text-align: left;
 }
 .cid-rfxHOnTalU {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-rfxHOnTalU .mbr-iconfont {
   font-size: 48px;
